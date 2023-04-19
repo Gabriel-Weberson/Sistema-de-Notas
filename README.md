@@ -3,7 +3,7 @@
 
 Sistema básico para *representação de notas* de uma determinada turma, esse sistema é capaz realizar as seguintes funções:
 
-* Adicionar um alumo;
+* Adicionar um aluno;
 * Remover um aluno;
 * Editar nome de um aluno;
 * Buscar aluno através do nome;
