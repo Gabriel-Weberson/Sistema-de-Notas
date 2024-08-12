@@ -1,18 +1,14 @@
 # Sistema-de-Notas
 ---
 
-Sistema básico para *representação de notas* de uma determinada turma, esse sistema é capaz realizar as seguintes funções:
+Este sistema básico permite a gestão eficiente das notas de uma turma, oferecendo as seguintes funcionalidades:
 
-* Adicionar um aluno;
-* Remover um aluno;
-* Editar nome de um aluno;
-* Buscar aluno através do nome;
-* Exibir o melhor aluno;
-* Exibir todos os alunos ordenados por nota;
-* Exibir alunos na final;
-* Adicionar nota de um aluno;
-* Remover nota de um aluno;
-* Calcular a média da turma;
-* Exibir alunos por ordem alfabética;
-* Exibir alunos aprovados por média;
-* Exibir alunos reprovados.
+* Adicionar, remover e editar alunos;
+* Buscar alunos pelo nome;
+* Exibir o melhor aluno com base nas notas;
+* Listar todos os alunos ordenados por nota;
+* Identificar alunos que estão na final;
+* Adicionar e remover notas de alunos;
+* Calcular a média geral da turma;
+* Exibir alunos em ordem alfabética;
+* Listar alunos aprovados e reprovados com base na média.
